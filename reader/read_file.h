@@ -17,5 +17,4 @@ struct Entity
     unordered_map<string, string> attributes;
     string content = "";
 };
-
 #endif
